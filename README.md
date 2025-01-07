@@ -66,7 +66,7 @@ CONVEX_DEPLOYMENT=your-convex-deployment-url
 NEXT_PUBLIC_CONVEX_URL=your-convex-url
 ```
 
-#### Add these env to Convex Dashboard
+#### Add these `.env` to Convex Dashboard
 ```env
 CLERK_WEBHOOK_SECRET=your-clerk-webhook-secret
 LEMON_SQUEEZY_WEBHOOK_SECRET=your-lemon-squeezy-webhook-secret
