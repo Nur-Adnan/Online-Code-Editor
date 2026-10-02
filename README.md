@@ -4,12 +4,6 @@ Welcome to **CodeCraft**, a fully-featured browser-based coding platform designe
 
 ---
 
-## 🚀 Live Demo
-
-[Live Demo](https://online-code-editor-ten-dun.vercel.app/) 
-
----
-
 ## 📌 Features
 
 ### Core Functionality:
