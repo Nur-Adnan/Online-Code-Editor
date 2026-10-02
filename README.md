@@ -1,4 +1,4 @@
-# CodeDev: The Ultimate Online Code Editor 🌐💻
+# CodeCraft: Online Code Editor
 
 Welcome to **CodeCraft**, a fully-featured browser-based coding platform designed to streamline your development workflow. Built with **Next.js 15**, **Convex**, **Clerk**, and **TypeScript**, this platform offers robust features and a seamless user experience.
 
